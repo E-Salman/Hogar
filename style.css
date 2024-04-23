@@ -1,0 +1,77 @@
+#contenedor {
+    width: 100%; 
+    line-height: 130%;
+}
+
+#divLogo {
+    text-align: center;
+    margin-left: 10%;    
+}
+
+#header {
+    border-bottom: 1px solid #850808;
+}
+
+#slogan{
+    max-width: 50%;
+}
+
+#busqueda { 
+    text-align: center;
+    margin-top: 1px;
+    height: 500px;
+    background-image: url(familia.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#familia {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 80%;
+}
+
+#COLU1 {
+    float: left; 
+    width: 10%;
+    height: 500px;
+}
+
+#footer {
+    background-color: #088585;
+    padding: 1%;
+    border: 1px solid #000;
+}
+
+#ini1 {
+    width: 30%;
+    text-align: center; 
+    border: 1px solid #000;
+}
+
+#casas {
+    width: 423px;
+    height: 236px;
+}
+
+#main {
+    margin-left: 10.5%;    
+    border-left: 1px solid #850808;
+}
+
+#textoCasas {
+    height: 50px;
+    width: 300px;
+}
+
+#botonesColumna {
+    width: 100%;
+    background: -moz-linear-gradient(top, #ce6b6b, #4e0101);
+    color: rgb(255, 255, 255);
+}
+
+#logo {
+    width: 75px;
+    height: 72px;
+}
